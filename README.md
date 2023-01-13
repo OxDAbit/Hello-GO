@@ -23,7 +23,7 @@
 		```
 	- Ejecutamos el código
 		```
-		./mod
+		./crud-api
 		```
 
 ## DEV tips
